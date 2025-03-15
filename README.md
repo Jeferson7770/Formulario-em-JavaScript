@@ -42,7 +42,7 @@ O design é simples e responsivo, garantindo uma boa experiência de usuário. O
 1️⃣ **Clone ou baixe o projeto**  
 ```bash
 git clone https://github.com/Jeferson7770/Formulario-em-JavaScript.git
-
+```
 ## 👨‍💻 Desenvolvedor
 
 Projeto desenvolvido por Jeferson Moreira. Obrigado por conferir este projeto! Se gostou, não esqueça de dar uma ⭐️ no repositório. Vamos nos conectar no [LinkedIn](https://www.linkedin.com/in/jefersonmoreiradev/)! 
